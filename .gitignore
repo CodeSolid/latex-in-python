@@ -1,3 +1,5 @@
 .ipynb_checkpoints
 *.synctex.gz
 sample.pdf
+.venv
+venv

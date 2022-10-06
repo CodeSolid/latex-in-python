@@ -1,0 +1,5 @@
+jupyterlab==3.4.7
+jupyterlab_latex==3.1.0
+pandas==1.5.0
+latexifier==1.0.8
+sympy==1.11.1
